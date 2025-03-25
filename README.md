@@ -33,3 +33,7 @@ El algoritmo de Huffman es un método de compresión sin pérdida que asigna có
 1. Al presionar descomprimir, se lee el archivo .huff y se extrae el JSON y el mensaje en bytearray.
 2. Estos dos elementos se envían a una función que transforma el bytearray de nuevo a una cadena de unos y ceros, para luego decodificarla usando el JSON transformado a diccionario.
 3. Esto nos da como resultado el mensaje original, el cual, se carga al campo de texto.
+
+
+# NOTA
+EN EL BRANCH DEVELOPMENT, SE EJECUTA CON EL ARCHIVO CLIENT.PY
