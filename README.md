@@ -36,4 +36,4 @@ El algoritmo de Huffman es un método de compresión sin pérdida que asigna có
 
 
 # NOTA
-EN EL BRANCH DEVELOPMENT, SE EJECUTA CON EL ARCHIVO CLIENT.PY
+Si clonas el repo, el compresor se ejecuta con Client.py
