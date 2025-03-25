@@ -1,4 +1,4 @@
-# CompresorHuffman
+# Compresor de Huffman en Python
 
 El algoritmo de Huffman es un método de compresión sin pérdida que asigna códigos de longitud variable a los símbolos, permitiendo así una eficiente compresión de archivos de texto. Este proyecto implementa este algoritmo junto con una interfaz grafica para ser una aplicación completa que permita abrir, editar, guardar, comprimir y descomprimir archivos de texto.
 
