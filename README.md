@@ -35,5 +35,8 @@ El algoritmo de Huffman es un método de compresión sin pérdida que asigna có
 3. Esto nos da como resultado el mensaje original, el cual, se carga al campo de texto.
 
 
-# NOTA
+## Nota
 Si clonas el repo, el compresor se ejecuta con Client.py
+
+## Autor
+Alejandro Amador Ruiz - aleamador2003@gmail.com
